@@ -7,3 +7,5 @@
         <li>Reusability of components for both shimmer placeholders and actual product items.</li>
         <li>Optimized with <code>const</code> where applicable for better performance.</li>
     </ul>
+
+![Shimmer Effect Loading ](https://github.com/user-attachments/assets/e1d3d5e1-9528-42a6-866b-c5335b86a1c3)
